@@ -2,7 +2,7 @@
 
 Stein Language
 
-## Syntex
+## Syntax
 
 ### Define Variable
 
